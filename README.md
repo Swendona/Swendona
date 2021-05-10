@@ -1,6 +1,11 @@
 
 [![Swendoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swendoz)](https://twitter.com/Swendoz)
 
+
+<a href="https://github.com/Swendoz/Swendoz#readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Swendoz&repo=github-readme-stats" />
+</a>
+
 <!--
 **Swendoo/Swendoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 👋 Hi there 
