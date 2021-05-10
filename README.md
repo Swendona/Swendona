@@ -2,7 +2,9 @@
 ### 🌱 I’m currently learning C# and Java
 ### 📫 How to reach me: @Swendoz on Twitter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swendoz)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Swendoza&repo=convoychat" />
+</a>
 
 
 
