@@ -2,7 +2,7 @@
 [![Swendoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swendoz)](https://twitter.com/Swendoz)
 
 
-<a href="https://github.com/Swendoz/Swendoz#readme">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Swendoz&repo=github-readme-stats" />
 </a>
 
