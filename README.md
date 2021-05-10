@@ -1,19 +1,14 @@
-
-[![Swendoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swendoz)](https://twitter.com/Swendoz)
+### 👋 Hi there 
+### 🌱 I’m currently learning C# and Java
+### 📫 How to reach me: @Swendoz on Twitter
 
 ![Swendoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swendoz&show_icons=true&theme=radical)
 
 
 <!--
 **Swendoo/Swendoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### 👋 Hi there 
-### 🌱 I’m currently learning C# and Java
-### 📫 How to reach me: @Swendoz on Twitter
+r
 Here are some ideas to get you started:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Swendoz=anuraghazra&repo=github-readme-stats" />
-</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
