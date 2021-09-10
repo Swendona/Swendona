@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-### 🌱 I’m currently learning C# and Java
+### 🌱 I’m currently learning HTML and CSS
 ### 📫 How to reach me: @Swendoz on Twitter
 
 
