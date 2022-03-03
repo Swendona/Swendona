@@ -3,8 +3,6 @@
 ### 🌱 I’m currently learning HTML, CSS && Javascript
 ### 📫 How to reach me: @Swendoz on Twitter
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Swendoz)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
