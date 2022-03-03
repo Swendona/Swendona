@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning HTML, CSS && Javascript
 ### 📫 How to reach me: @Swendoz on Twitter
 
-![Swendoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swendoz&show_icons=true&theme=radical)
+
 
 
 <!--
