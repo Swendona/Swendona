@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swendoz</h1>
 <h3 align="center">A game developer from the Netherlands</h3>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Brickout Replica 😄 <a href="https://t.co/aa4d2h30Sb">pic.twitter.com/aa4d2h30Sb</a></p>&mdash; Swendoz (@Swendoz) <a href="https://twitter.com/Swendoz/status/1501026525314957312?ref_src=twsrc%5Etfw">March 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - 🔭 I’m currently working on **Unity C#**
 
 - 🌱 I’m currently learning **HTML, CSS && Javascript**
