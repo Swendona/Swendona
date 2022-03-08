@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swendoz</h1>
 <h3 align="center">A game developer from the Netherlands</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swendoz" alt="swendoz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/swendoz" target="blank"><img src="https://img.shields.io/twitter/follow/swendoz?logo=twitter&style=for-the-badge" alt="swendoz" /></a> </p>
+<a href="https://twitter.com/intent/tweet?button_hashtag=Swendoz&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Swendoz</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - 🔭 I’m currently working on **Unity C#**
 
