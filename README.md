@@ -2,12 +2,31 @@
 ### 🔭 I’m currently working on Unity C#
 ### 🌱 I’m currently learning HTML, CSS && Javascript
 ### 📫 How to reach me: @Swendoz on Twitter
+<h1 align="center">Hi 👋, I'm Swendoz</h1>
+<h3 align="center">A game developer from the Netherlands</h3>
 
-![alt text](https://i.redd.it/tu3gt6ysfxq71.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swendoz&label=Profile%20views&color=0e75b6&style=flat" alt="swendoz" /> </p>
 
+<p align="left"> <a href="https://twitter.com/swendoz" target="blank"><img src="https://img.shields.io/twitter/follow/swendoz?logo=twitter&style=for-the-badge" alt="swendoz" /></a> </p>
 
+- 🔭 I’m currently working on **Unity C#**
 
-<img src="https://i.redd.it/tu3gt6ysfxq71.png" width="10%"></img> <img src="https://www.senet.nl/wp-content/uploads/2021/06/csharp-logo.png" width="10%"></img> <img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" width="10%"></img> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="10%"></img> <img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-svg-vector.svg" width="10%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="10%"></img> 
+- 🌱 I’m currently learning **HTML, CSS && Javascript**
+
+- 📫 How to reach me: **@Swendoz on Twitter**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/swendoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swendoz" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/swendoz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="swendoz" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swendoz&show_icons=true&locale=en&layout=compact" alt="swendoz" /></p>
 
 <!--
 **Swendoo/Swendoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
