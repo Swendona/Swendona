@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning HTML, CSS && Javascript
 ### 📫 How to reach me: @Swendoz on Twitter
 
-
+![alt text](https://i.redd.it/tu3gt6ysfxq71.png)
 
 
 
