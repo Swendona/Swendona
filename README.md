@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: **@Swendoz on Twitter**
 
-<iframe frameborder="0" src="https://itch.io/embed/1432836?linkback=true&amp;bg_color=402d86&amp;fg_color=ffffff&amp;border_color=9482da" width="552" height="167"><a href="https://swendogames.itch.io/brick-breaker">Brick Breaker by Swendo Games</a></iframe>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swendoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swendoz" height="30" width="40" /></a>
