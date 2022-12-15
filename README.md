@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swendoz</h1>
-<h3 align="center">A game developer from the Netherlands</h3>
+<h3 align="center">A beginner software developer from the Netherlands</h3>
 
 - 🔭 I’m currently working on **Unity C#**
 
