@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React && PHP**
 
-- 🌱 I’m currently learning ****
+<!-- - 🌱 I’m currently learning -->
 
 - 📫 How to reach me: **@Swendoz on Twitter**
 
