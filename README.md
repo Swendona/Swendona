@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swendoz</h1>
-<h3 align="center">A beginner software developer from the Netherlands</h3>
+<h3 align="center">A software developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **HTML & CSS & Javascript**
+- 🔭 I’m currently working on **React && PHP**
 
-- 🌱 I’m currently learning **React & PHP & ...**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me: **@Swendoz on Twitter**
 
