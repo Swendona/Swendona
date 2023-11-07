@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swendoz</h1>
 <h3 align="center">A software developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **React && PHP**
+- 🔭 I’m currently working on **React & PHP**
 
 <!-- - 🌱 I’m currently learning -->
 
